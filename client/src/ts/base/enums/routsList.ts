@@ -1,11 +1,11 @@
 const enum RoutsList {
-  homePage = '/',
-  planPage = '/plan',
-  profilePage = '/profile',
-  accountPage = '/account',
-  loginPage = '/login',
-  monday = '/monday',
-  confirmPage = '/confirm',
+  homePage = '/routine/',
+  planPage = '/routine/plan',
+  profilePage = '/routine/profile',
+  accountPage = '/routine/account',
+  loginPage = '/routine/login',
+  monday = '/routine/monday',
+  confirmPage = '/routine/confirm',
 }
 
 export default RoutsList;
