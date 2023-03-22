@@ -1,13 +1,13 @@
 # Notes for Routine
 
 ## Task 
-- [routine score](https://github.com/lexarudak/routine/blob/notes/score.md)
+- [routine score](https://github.com/mikalai-kazlou/routine/blob/notes/score.md)
 - [link](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rsclone/rsclone.md)
 - [video](https://www.youtube.com/watch?v=-EJnrfwdnD8)
 
 ## App
 
-- [desk](https://github.com/users/lexarudak/projects/2/views/1)
+- [desk](https://github.com/users/mikalai-kazlou/projects/2/views/1)
 - [design](https://www.figma.com/file/5rzJMlMCJgY34kijNJSvOm/Routine?node-id=0%3A1&t=DSyZZc0JgU8DWcgq-0)
 - [svg](https://www.svgrepo.com/collection/lucide-line-icons/2)
 - [canvas rounds](https://www.youtube.com/watch?v=KEQsm2yL6Lg&t=778s)
@@ -27,4 +27,4 @@ Client
 
 ## API
 
-- [link](https://github.com/lexarudak/routine/blob/notes/api.md)
+- [link](https://github.com/mikalai-kazlou/routine/blob/notes/api.md)
